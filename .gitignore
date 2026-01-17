@@ -13,4 +13,5 @@ __pycache__/
 # Virtual Environments (if you made one)
 env/
 venv/
-.env
+.env/
+anaconda_projects/

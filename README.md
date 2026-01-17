@@ -1,5 +1,5 @@
 # 🩺 Diabetes Risk Prediction System
-
+LIVE DEMO: https://diabetes-risk-prediction-system.streamlit.app/
 An end-to-end machine learning application that predicts the likelihood of diabetes in patients based on medical history and demographic details. Built with Python, Scikit-Learn, and Streamlit.
 
 # Project Overview

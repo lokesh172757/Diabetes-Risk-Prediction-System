@@ -39,6 +39,7 @@ diabetes.csv: The dataset used for training.
 # requirements.txt: List of Python dependencies.
 
 💻 How to Run Locally
+
 Clone the repository:
 code
 Bash
